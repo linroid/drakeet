@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Drakeet, an Android software engineer at Microsoft.
+My name is Lin Zhang, an Android software engineer at Microsoft.
 
-- 🔭 I'm currently working on [Outlook for Android](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook), and a side project called [Pure Writer](https://play.google.com/store/apps/details?id=com.drakeet.purewriter)
+- 🔭 I'm currently working on [Outlook for Android](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook), and a side project called [Dora.js](https://github.com/Dorajs)
 - 📫 How to reach me: 
-  * Telegram: [@drakeet](https://t.me/drakeet)
-  * Email: drakeet@drakeet.com
+  * Telegram: [@linroid](https://t.me/linroid)
+  * Email: linroid@gmail.com
   
