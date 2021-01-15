@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lin Zhang, an Android software engineer.
+My name is Lin Zhang, Android(Toy) Engineer @WeChat.
 
 - 📫 How to reach me: 
   * Telegram: [@linroid](https://t.me/linroid)
