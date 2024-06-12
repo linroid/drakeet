@@ -6,6 +6,7 @@ My name is Lin Zhang, looking an Android job all over the world, previously at T
 
 - 📫 How to reach me: 
   * Telegram: [@linroid](https://t.me/linroid)
-  * Website: [linroid.com](https://linroid.com/)
+  * Twitter(X): [@linroid](https://twitter.com/linroid)
+  * LinkedIn: https://www.linkedin.com/in/linroid/
   * Email: linroid@gmail.com
   
